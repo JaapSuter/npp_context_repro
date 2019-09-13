@@ -1,6 +1,6 @@
-# npp_context_repro
+# CUDA NPP NppStreamContext Confusion
 
-Small stand-alone reproduction of my confusion (or a problem) with the new custom NppStreamContext support in Nvidia's NPP.
+Small stand-alone reproduction of my confusion (or a problem) with the new custom `NppStreamContext` support in Nvidia's NPP.
 
 See corresponding question on Stack Overflow here:
 
